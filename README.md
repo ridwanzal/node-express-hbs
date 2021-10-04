@@ -1,1 +1,1 @@
-Example project node with hbs
+Example project with Node Express & handlebars
